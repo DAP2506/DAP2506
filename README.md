@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dap2506&label=Profile%20views&color=0e75b6&style=flat" alt="dap2506" /> </p>
 
-- 🌱 I’m currently learning **Electron JS and web3.0**
+- 🌱 I’m currently learning **web3.0**
 
 - 💬 Ask me about **MERN Stack, Solidity**
 
